@@ -1,0 +1,21 @@
+#include "OGL.h"
+
+MYICON ICON ".\\resources\\Namasakaram.ico"
+
+IDBM_AMCPRESENTS BITMAP ".\\resources\\AMCPresents.bmp"
+IDBM_HOUSE_FLOOR BITMAP ".\\resources\\Floor.bmp"
+IDBM_ABHYASA_MANTRA BITMAP ".\\resources\\AbhyasaMantra.bmp"
+IDBM_TABLE BITMAP ".\\resources\\Table.bmp"
+IDBM_TABLE_KEYBOARD BITMAP ".\\resources\\Keyboard.bmp"
+IDBM_TABLE_MONITOR_SCREEN BITMAP ".\\resources\\Screen.bmp"
+IDBM_GRASS BITMAP ".\\resources\\Grass.bmp"
+IDBM_BENCH BITMAP ".\\resources\\Bench.bmp"
+IDBM_KOSHISH BITMAP ".\\resources\\Koshish.bmp"
+IDBM_KAVI BITMAP ".\\resources\\Kavi.bmp"
+IDBM_MYCREDIT BITMAP ".\\resources\\MyCredit.bmp"
+IDBM_TECHNICALINFO BITMAP ".\\resources\\TechnicalInfo.bmp"
+IDBM_MUSICALINFO BITMAP ".\\resources\\MusicalInfo.bmp"
+IDBM_OTHERSCREDIT BITMAP ".\\resources\\OthersCredit.bmp"
+IDBM_SIRANDMADAMSCREDIT BITMAP ".\\resources\\SirAndMadamsCredit.bmp"
+
+IDWAV_BKGNDTRACK WAVE ".\\resources\\BkgndTrack.wav"

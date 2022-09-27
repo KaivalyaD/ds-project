@@ -1,0 +1,7 @@
+resources/*
+Log.txt
+*.exe
+*.obj
+*.res
+*.exp
+*.lib
