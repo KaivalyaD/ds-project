@@ -35,12 +35,13 @@ Poet: Shri. Harivanshrai Bacchan
 
 1. Make sure you have Visual Studio Command Line Utilities installed
 2. Navigate to the ds-project directory
-3. Open a 64-bit Native Tools Command Prompt in this directory
-4. Run the following command:
+3. Paste the downloaded resources/ in this directory
+4. Open a 64-bit Native Tools Command Prompt in this directory
+5. Run the following command:
   
    > build.bat
-
-5. Run the OGL.exe file by either double-clicking on it, or issue the
+   
+6. Run the OGL.exe file by either double-clicking on it, or issue the
    following command:
 
    > OGL.exe
